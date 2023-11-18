@@ -13,4 +13,4 @@ You can bring this onboarding screen up again at any time by clicking **Cork** i
 
 ## Next Steps
 
-Now that you have set Cork up, read about the [User Interface](/user-interface/main.html), discover [what you can do with Cork](/package-operations/main.html), or learn more about how you can [customize Cork](/settings/main.html).
+Now that you have set Cork up, read about the [User Interface](/user-interface/user-interface-main.html), discover [what you can do with Cork](/package-operations/package-operations-main.html), or learn more about how you can [customize Cork](/settings/settings-main.html).

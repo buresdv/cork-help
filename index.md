@@ -10,7 +10,7 @@ title: Cork Help
 
 Familiarize yourself with the Homebrew package manager, which serves as the base for Cork. You'll also learn about the terminology used throughout the app.
 
-[Getting started with Cork and Homebrew ›](/getting-started/main.html)
+[Getting started with Cork and Homebrew ›](/getting-started/getting-started-main.html)
 
 <separator></separator>
 
@@ -20,7 +20,7 @@ Familiarize yourself with the Homebrew package manager, which serves as the base
 
 Discover Cork's intuitive user interface. Find out more about each section of the window, and how to perform the most common tasks.
 
-[Cork's User Interface ›](/user-interface/main.html)
+[Cork's User Interface ›](/user-interface/user-interface-main.html)
 
 <separator></separator>
 
@@ -30,7 +30,7 @@ Discover Cork's intuitive user interface. Find out more about each section of th
 
 Find out how to install an uninstall packages, remove packages that are not needed anymore, and clear various caches.
 
-[Available Package Operations ›](/package-operations/main.html)
+[Available Package Operations ›](/package-operations/package-operations-main.html)
 
 <separator></separator>
 
@@ -40,7 +40,7 @@ Find out how to install an uninstall packages, remove packages that are not need
 
 Learn about managing third-party sources, which let you install additional packages. 
 
-[Adding Packages with Taps ›](/tap-operations/main.html)
+[Adding Packages with Taps ›](/tap-operations/tap-operations-main.html)
 
 <separator></separator>
 
@@ -50,7 +50,7 @@ Learn about managing third-party sources, which let you install additional packa
 
 Discover how you can keep Homebrew performant.
 
-[Maintaining Homebrew Performance ›](/maintenance-operations/main.html)
+[Maintaining Homebrew Performance ›](/maintenance-operations/maintenance-operations-main.html)
 
 <separator></separator>
 
@@ -60,4 +60,4 @@ Discover how you can keep Homebrew performant.
 
 See how you can customize Cork to your liking.
 
-[Cork Settings ›](/settings/main.html)
+[Cork Settings ›](/settings/settings-main.html)

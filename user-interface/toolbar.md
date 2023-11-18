@@ -13,15 +13,15 @@ Return to the [Status Page](detail-area/status-page.html) when you have a [Detai
 
 ## Update
 
-[Update](../package-operations/main.html#keeping-packages-up-to-date) all outdated packages.
+[Update](../package-operations/package-operations-main.html#keeping-packages-up-to-date) all outdated packages.
 
 ## Add Tap
 
-[Add](../tap-operations/main.html) a new Tap.
+[Add](../tap-operations/tap-operations-main.html) a new Tap.
 
 ## Install Package
 
-[Install](../package-operations/main.html#installing-packages) a new Package.
+[Install](../package-operations/package-operations-main.html#installing-packages) a new Package.
 
 
 

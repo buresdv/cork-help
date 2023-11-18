@@ -34,4 +34,4 @@ While Cork inherits most terminology from Homebrew, it makes a few changes to be
 
 ## First Steps
 
-To discover what you need to do when you first start up Cork, see [First Steps](./first-steps/main.html)
+To discover what you need to do when you first start up Cork, see [First Steps](./first-steps/first-steps-main.html)

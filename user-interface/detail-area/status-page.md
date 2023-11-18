@@ -7,7 +7,7 @@ title: Status Page
 
 The Status Page offers a quick overview of the current state of your Homebrew installation and lets you perform maintenance tasks.
 
-![Status Page](/user-interface/Assets/Status Page.png)
+![Status Page](/user-interface/Assets/Status Page Annotated.png)
 
 ## Outdated Package List
 
@@ -27,4 +27,4 @@ See how much space leftover files from package installations are taking up, and 
 
 ## Brew Maintenance
 
-At the bottom of the screen, you can see the `Brew Maintenance…` button, which lets you perform periodical maintenance on your Homebrew installation. See [Maintenance Operations](../../maintenance-operations/main.html) for more info.
+At the bottom of the screen, you can see the `Brew Maintenance…` button, which lets you perform periodical maintenance on your Homebrew installation. See [Maintenance Operations](../../maintenance-operations/maintenance-operations-main.html) for more info.

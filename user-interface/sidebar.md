@@ -5,7 +5,7 @@ title: Sidebar
 
 # Sidebar
 
-The Sidebar lets you quickly navigate through your installed [packages](../getting-started/main.html#basic-terms) and added [taps](../getting-started/main.html#basic-terms). 
+The Sidebar lets you quickly navigate through your installed [packages](../getting-started/getting-started-main.html#basic-terms) and added [taps](../getting-started/getting-started-main.html#basic-terms). 
 
 ![Sidebar](/user-interface/Assets/Sidebar.png)
 
@@ -36,7 +36,7 @@ When you right-click or Control-click a package or tap in the list, you will see
 
 ### Package Actions
 
-For more info on the following actions, see the page [Package Operations](../package-operations/main.html).
+For more info on the following actions, see the page [Package Operations](../package-operations/package-operations-main.html).
 
 - **Tag [package name]**: Mark a package of interest.
 - **Untag [package name]**: Remove the tagged status from a package.
@@ -45,6 +45,6 @@ For more info on the following actions, see the page [Package Operations](../pac
 
 ### Tap Actions
 
-For more info on the following actions, see the page [Tap Operations](../tap-operations/main.html).
+For more info on the following actions, see the page [Tap Operations](../tap-operations/tap-operations-main.html).
 
 - **Remove [tap name]**: Remove a tap.

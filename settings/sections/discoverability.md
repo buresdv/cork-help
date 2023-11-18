@@ -3,7 +3,7 @@ layout: default
 title: Discoverability Settings
 ---
 
-This section lets you enable [Discoverability](/package-operations/workflows/discoverability.html), and customize the way it behaves.
+This section lets you enable [Discoverability](/package-operations/workflows/discoverability-workflow.html), and customize the way it behaves.
 
 Enable discoverability by turning on the **Enable Discoverability** toggle.
 

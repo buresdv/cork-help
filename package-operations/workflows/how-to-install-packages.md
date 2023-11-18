@@ -19,7 +19,7 @@ Now, we will go over every step of the installation process.
 ![Install Start](./Assets/Install%20Start.png)
 ### Search for Packages
 
-If you enabled [Discoverability](./discoverability.html), you will see a list of the most popular packages, depending on how you [configured](/settings/sections/discoverability.html) this feature. You can select a package from this list and click **Install** to immediately start installing that package.
+If you enabled [Discoverability](./discoverability-workflow.html), you will see a list of the most popular packages, depending on how you [configured](/settings/sections/discoverability.html) this feature. You can select a package from this list and click **Install** to immediately start installing that package.
 
 If you have not enabled Discoverability, you will see a text field. Write the name of the package you'd like to install into this field, and either press `Return ↩` on your keyboard, or click **Search**.
 
@@ -28,9 +28,9 @@ If you have not enabled Discoverability, you will see a text field. Write the na
 ![Search Results](./Assets/Search%20Results.png)
 ### Choose the Right Package
 
-After a few seconds, you will see a list of the best matches. The way this list will look depends on how you [set up](/getting-started/first-steps/main.html) Cork, and how you [changed the various settings](/settings/main.html).
+After a few seconds, you will see a list of the best matches. The way this list will look depends on how you [set up](/getting-started/first-steps/first-steps-main.html) Cork, and how you [changed the various settings](/settings/settings-main.html).
 
-In any case, you will see a list of packages. The list is divided into [Formulae and Casks](/getting-started/main.html#cork-terminology), with each section collapsible by clicking **Hide** on the right side of its section header.
+In any case, you will see a list of packages. The list is divided into [Formulae and Casks](/getting-started/getting-started-main.html#cork-terminology), with each section collapsible by clicking **Hide** on the right side of its section header.
 
 When you find the package you want to install, click on it to select its row, then click **Install**.
 
