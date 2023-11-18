@@ -29,9 +29,9 @@ If a packages has dependencies, an additional item will be shown between **Homep
 
 There are two additional buttons at the bottom of the page:
 
-- **Pin to version [package version]**: [Pin](../../package-operations/advanced/pin.html) the package to the currently-installed version.
+- **Pin to version [package version]**: [Pin](/package-operations/advanced/pin.html) the package to the currently-installed version.
 - **Uninstall [package]**: [Uninstall]() the package.
-  - If you enabled [Purging](../../package-operations/advanced/pin.html), the button will have the additional option of purging the package instead.
+  - If you enabled [Purging](/package-operations/advanced/purging.html), the button will have the additional option of purging the package instead.
 
 ## Tap Details
 

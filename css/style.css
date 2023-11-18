@@ -19,7 +19,12 @@ a:hover {
 }
 
 img {
-    max-width: 100%;
+    max-width: 50rem;
+    max-height: 40rem;
+}
+img.inline {
+    max-height: 1.5rem;
+    max-width: 1.5rem;
 }
 
 kbd {
@@ -73,7 +78,10 @@ h2 {
     margin-bottom: 1rem;
     clear: both;
 }
-:not(h1) + h2 {
+separator {
+    display: block;
+}
+:not(h1) + h2:not(.no-separator), separator {
     border-top: 1px solid -apple-system-separator;
     padding-top: 1rem;
 }

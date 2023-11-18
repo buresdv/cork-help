@@ -28,6 +28,10 @@ While Cork inherits most terminology from Homebrew, it makes a few changes to be
 | Package | *Install Packages*<br />*Outdated Packages*                  | App installed through Homebrew / Cork.                       |
 | Formula | *Package is a Formula*<br />*Installed Formulae*             | Package that is used through Terminal.                       |
 | Cask    | *Package is a Cask*<br />*Installed Casks*                   | Package that has a graphical window.                         |
-| Update  | *Update Packages*<br />*Fetching Updates…*                   | Process which check for outdated packages, but does not install any new versions. |
-| Upgrade | *Applying Package Upgrades…*<br />*Upgrade All Packages*     | Process which will download and install the latest versions of outdated packages. |
+| Refresh  | *Refresh Packages*<br />*Fetching Updates…*                   | Process which check for outdated packages, but does not install any new versions. |
+| Update | *Applying Package Updates*<br />*Update All Packages*     | Process which will download and install the latest versions of outdated packages. |
 | Tap     | *Tap Includes no Packages*<br />*homebrew/core is an official Tap* | List of packages, which lets you install packages not present in base Homebrew. |
+
+## First Steps
+
+To discover what you need to do when you first start up Cork, see [First Steps](./first-steps/main.html)
