@@ -9,7 +9,7 @@ You can add, update and remove packages easily.
 
 To add a new package, you can use one of three workflows:
 
-- Use the **Install** button in the [Toolbar](/user-interface/toolbar.html)
+- <p>Click <img src="/package-operations/workflows/Assets/Install Button.jpg" class="inline"> in the <a href="/user-interface/toolbar.html">toolbar</a></p>
 - Press `⌘ + N`
 - Select **Install Packages** in the Menu Bar, in **Packages → Install Packages** 
 
